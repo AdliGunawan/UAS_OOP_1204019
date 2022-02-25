@@ -1,0 +1,5 @@
+C:\Users\Adli Gunawan Bastin\source\repos\UAS_OOP__1204019\UAS_OOP__1204019\obj\Debug\UAS_OOP__1204019.csproj.AssemblyReference.cache
+C:\Users\Adli Gunawan Bastin\source\repos\UAS_OOP__1204019\UAS_OOP__1204019\obj\Debug\UAS_OOP__1204019.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adli Gunawan Bastin\source\repos\UAS_OOP__1204019\UAS_OOP__1204019\obj\Debug\UAS_OOP__1204019.Properties.Resources.resources
+C:\Users\Adli Gunawan Bastin\source\repos\UAS_OOP__1204019\UAS_OOP__1204019\obj\Debug\UAS_OOP__1204019.csproj.GenerateResource.cache
+C:\Users\Adli Gunawan Bastin\source\repos\UAS_OOP__1204019\UAS_OOP__1204019\obj\Debug\UAS_OOP__1204019.csproj.CoreCompileInputs.cache
